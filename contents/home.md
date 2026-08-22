@@ -14,9 +14,6 @@
 **东莞理工学院**, 电子信息工程 （本科）(2018.9 – 2022.6)  
 • GPA: 4.0/5.0 
 
-#### 研究领域
-深度强化学习， 机器人运动控制系统，机器人决策规划系统，VLN
-
 #### 专业技能
 **编程语言**　![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)　![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=white)
 
