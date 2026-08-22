@@ -9,9 +9,4 @@
   - **动力学一致性决策规划**：针对"导航—控制"解耦范式下感控一体模型效果不佳的问题，借鉴感知式前向动力学模型（FDM）思路，在决策规划层引入前向动力学预测，使整体决策规划符合四足机器狗的动力学模型，提升复杂地形下的导航可行性与稳定性。
 - **集群算法落地**：负责多四足机器人集群算法的开发与落地应用，实现多机协同下的路径规划、动态避障与任务分配，并完成现场部署与调优，保障系统在真实环境中的稳定运行。
 
-#### 多机编队演示
-
-<video controls width="100%" poster="static/videos/poster.jpg">
-  <source src="static/videos/formation.mp4" type="video/mp4">
-  您的浏览器不支持 HTML5 视频播放。
-</video>
+  <video controls width="100%" poster="static/videos/poster.jpg"><source src="static/videos/formation.mp4" type="video/mp4">您的浏览器不支持 HTML5 视频播放。</video>
