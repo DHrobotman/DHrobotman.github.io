@@ -41,6 +41,12 @@
     background: rgba(0, 0, 0, 0.5);
 }
 
+/* 缩减各板块间距为默认一半 */
+section {
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+}
+
 section header h2{
     font-family: "Kanit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !important;
     color: var(--h-title-color);
