@@ -16,3 +16,12 @@
 
 #### 研究领域
 深度强化学习， 机器人运动控制系统，机器人决策规划系统，VLN
+
+#### 专业技能
+**编程语言**　![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)　![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=white)
+
+**机器人框架**　![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white)　![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
+
+**仿真环境**　![IsaacLab](https://img.shields.io/badge/IsaacLab-76B900?logo=nvidia&logoColor=white)　![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?logo=nvidia&logoColor=white)　![Gazebo](https://img.shields.io/badge/Gazebo-7f8c8d)
+
+**开发工具**　![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)　![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
