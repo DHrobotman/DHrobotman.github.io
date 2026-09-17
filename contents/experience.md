@@ -30,6 +30,9 @@
 
 <video controls width="100%"><source src="static/videos/sru_real.mp4" type="video/mp4">您的浏览器不支持 HTML5 视频播放。</video>
 
+<video controls width="100%"><source src="static/videos/sru_real_height.mp4" type="video/mp4">您的浏览器不支持 HTML5 视频播放。</video>
+<p class="figure-caption text-center text-muted">实机部署演示（高程图可视化）：导航过程中局部高程图实时构建结果</p>
+
 **二、异构多机器狗群体控制项目｜主要负责人**
 
 负责商用级机器狗集群表演系统的研发与落地，面向室内外商业展演需求，解决异构机型协同、低时延通信与集群调度问题，支撑公司文旅商业展演业务交付。
